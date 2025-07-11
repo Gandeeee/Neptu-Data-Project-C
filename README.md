@@ -1,10 +1,6 @@
 # 🐟 NEPTU Data - Manajemen Data Hasil Tangkapan Perikanan 🐟
 
 <p align="center">
-  <img src="https://i.imgur.com/your-image-url.png" alt="Neptu Data Banner" width="600"/>
-</p>
-
-<p align="center">
   <strong>Sebuah program CLI sederhana namun powerful untuk mencatat, mengelola, dan menganalisis data hasil tangkapan ikan.</strong>
   <br>
   <br>

@@ -79,24 +79,6 @@ Untuk menjalankan program ini di komputermu, ikuti langkah-langkah berikut:
 4.  **Ikuti Menu**
     Program akan menampilkan menu utama. Pilih opsi yang Anda inginkan dengan mengetikkan nomor yang sesuai dan tekan Enter. Selamat mendata!
 
----
-
-## 📸 Tampilan Program
-
-Berikut adalah beberapa cuplikan tampilan dari program **NEPTU Data**:
-
-**Menu Sambutan & Utama:**
-*(Disarankan untuk memasang screenshot menu utama di sini)*
-``
-
-**Contoh Statistik Tangkapan:**
-*(Disarankan untuk memasang screenshot fitur statistik di sini)*
-``
-
-**Hasil Pencarian & Pengurutan Data:**
-*(Disarankan untuk memasang screenshot fitur search/sort di sini)*
-``
-
 
 ---
 
